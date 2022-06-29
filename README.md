@@ -1,4 +1,4 @@
-- 👋 Hola soy @Alejandro25AR
+ 👋 Hola soy @Alejandro25AR
 - 👀 Me interesa todo lo relacionado con la informatica y electronica, hasta el momento he aprendido y practicado con las siguientes tecnologias:
 front-end: HTML, CSS, JAVASCRIPT,\n
 Preprosesadores: TypeScript y SCSS usnado metodologias como lo son BEM, BEMIT, atomic-desig con BEM
