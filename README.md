@@ -12,3 +12,4 @@
     - TDD con el framework JEST
     - Framework React
 - 💞️ Estoy buscando cooperar en proyectos en donde aumente y ponga en practica mis conocimientos<br>
+- 📫 Pueden contactarme por el correo: alejito25raiders@gmail.com
